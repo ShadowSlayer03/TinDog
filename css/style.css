@@ -66,12 +66,11 @@ a>img{
   height: 40px;
 }
 
-.buttn{
-  border: solid 20px #df5b7c;
-
+#buttn{
+  border-color: #df5b7c; 
+  color: #df5b7c;
 }
-
-.buttn:hover{
+button#buttn:hover{
   background-color: #df5b7c;
   color: white;
 }
